@@ -1,0 +1,10 @@
+return {
+    {
+        "https://raw.githubusercontent.com/KKosty4ka/MineOS-PatchInstaller/master/Developers/Applications/Settings.app/Modules/8_System/Main.lua",
+        "/Applications/Settings.app/Modules/8_System/Main.lua"
+    },
+    {
+        "https://raw.githubusercontent.com/KKosty4ka/MineOS-PatchInstaller/master/Developers/Applications/App%20Market.app/Main.lua",
+        "/Applications/App Market.apps/Main.lua"
+    }
+}
